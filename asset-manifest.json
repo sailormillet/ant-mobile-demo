@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ant-mobile-demo/static/css/main.3b2322cf.css",
-    "main.js": "/ant-mobile-demo/static/js/main.fde958f1.js",
+    "main.js": "/ant-mobile-demo/static/js/main.d154f036.js",
     "static/js/787.4cdc0c10.chunk.js": "/ant-mobile-demo/static/js/787.4cdc0c10.chunk.js",
     "static/media/empty.svg": "/ant-mobile-demo/static/media/empty.f2b844b21ec850bdec1912ad99067e9f.svg",
     "static/media/default.svg": "/ant-mobile-demo/static/media/default.1f281972c41211594f594eb8431617c7.svg",
@@ -14,11 +14,11 @@
     "static/media/selector-check-mark.svg": "/ant-mobile-demo/static/media/selector-check-mark.114658178460349f836afa56ac129819.svg",
     "index.html": "/ant-mobile-demo/index.html",
     "main.3b2322cf.css.map": "/ant-mobile-demo/static/css/main.3b2322cf.css.map",
-    "main.fde958f1.js.map": "/ant-mobile-demo/static/js/main.fde958f1.js.map",
+    "main.d154f036.js.map": "/ant-mobile-demo/static/js/main.d154f036.js.map",
     "787.4cdc0c10.chunk.js.map": "/ant-mobile-demo/static/js/787.4cdc0c10.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b2322cf.css",
-    "static/js/main.fde958f1.js"
+    "static/js/main.d154f036.js"
   ]
 }
