@@ -1,23 +1,33 @@
 {
   "files": {
     "main.css": "/ant-mobile-demo/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/ant-mobile-demo/static/js/main.3ff9e37d.chunk.js",
-    "main.js.map": "/ant-mobile-demo/static/js/main.3ff9e37d.chunk.js.map",
-    "runtime-main.js": "/ant-mobile-demo/static/js/runtime-main.cfa8f18a.js",
-    "runtime-main.js.map": "/ant-mobile-demo/static/js/runtime-main.cfa8f18a.js.map",
-    "static/js/2.2855a9d6.chunk.js": "/ant-mobile-demo/static/js/2.2855a9d6.chunk.js",
-    "static/js/2.2855a9d6.chunk.js.map": "/ant-mobile-demo/static/js/2.2855a9d6.chunk.js.map",
-    "static/js/3.8a64cf94.chunk.js": "/ant-mobile-demo/static/js/3.8a64cf94.chunk.js",
-    "static/js/3.8a64cf94.chunk.js.map": "/ant-mobile-demo/static/js/3.8a64cf94.chunk.js.map",
+    "main.js": "/ant-mobile-demo/static/js/main.c3ff2261.chunk.js",
+    "main.js.map": "/ant-mobile-demo/static/js/main.c3ff2261.chunk.js.map",
+    "runtime-main.js": "/ant-mobile-demo/static/js/runtime-main.33aec229.js",
+    "runtime-main.js.map": "/ant-mobile-demo/static/js/runtime-main.33aec229.js.map",
+    "static/css/2.cdb88648.chunk.css": "/ant-mobile-demo/static/css/2.cdb88648.chunk.css",
+    "static/js/2.803859c8.chunk.js": "/ant-mobile-demo/static/js/2.803859c8.chunk.js",
+    "static/js/2.803859c8.chunk.js.map": "/ant-mobile-demo/static/js/2.803859c8.chunk.js.map",
+    "static/js/3.75467356.chunk.js": "/ant-mobile-demo/static/js/3.75467356.chunk.js",
+    "static/js/3.75467356.chunk.js.map": "/ant-mobile-demo/static/js/3.75467356.chunk.js.map",
     "index.html": "/ant-mobile-demo/index.html",
+    "static/css/2.cdb88648.chunk.css.map": "/ant-mobile-demo/static/css/2.cdb88648.chunk.css.map",
     "static/css/main.ab7136cd.chunk.css.map": "/ant-mobile-demo/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.2855a9d6.chunk.js.LICENSE.txt": "/ant-mobile-demo/static/js/2.2855a9d6.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ant-mobile-demo/static/media/logo.6ce24c58.svg"
+    "static/js/2.803859c8.chunk.js.LICENSE.txt": "/ant-mobile-demo/static/js/2.803859c8.chunk.js.LICENSE.txt",
+    "static/media/busy.svg": "/ant-mobile-demo/static/media/busy.c4668539.svg",
+    "static/media/default.svg": "/ant-mobile-demo/static/media/default.1f281972.svg",
+    "static/media/disconnected.svg": "/ant-mobile-demo/static/media/disconnected.9c7ea75e.svg",
+    "static/media/empty-icon.svg": "/ant-mobile-demo/static/media/empty-icon.0e5fd287.svg",
+    "static/media/empty.svg": "/ant-mobile-demo/static/media/empty.f2b844b2.svg",
+    "static/media/selector-check-mark.svg": "/ant-mobile-demo/static/media/selector-check-mark.11465817.svg",
+    "static/media/slider.css": "/ant-mobile-demo/static/media/slider-thumb.3d161c84.svg",
+    "static/media/spin.svg": "/ant-mobile-demo/static/media/spin.a71ffb17.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cfa8f18a.js",
-    "static/js/2.2855a9d6.chunk.js",
+    "static/js/runtime-main.33aec229.js",
+    "static/css/2.cdb88648.chunk.css",
+    "static/js/2.803859c8.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.3ff9e37d.chunk.js"
+    "static/js/main.c3ff2261.chunk.js"
   ]
 }
