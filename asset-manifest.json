@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sailormillet/ant-mobile-demo/static/css/main.3b2322cf.css",
+    "main.js": "/sailormillet/ant-mobile-demo/static/js/main.f778aed9.js",
+    "static/js/787.4cdc0c10.chunk.js": "/sailormillet/ant-mobile-demo/static/js/787.4cdc0c10.chunk.js",
+    "static/media/empty.svg": "/sailormillet/ant-mobile-demo/static/media/empty.f2b844b21ec850bdec1912ad99067e9f.svg",
+    "static/media/default.svg": "/sailormillet/ant-mobile-demo/static/media/default.1f281972c41211594f594eb8431617c7.svg",
+    "static/media/busy.svg": "/sailormillet/ant-mobile-demo/static/media/busy.c4668539d4172c45989782acfa8f0d95.svg",
+    "static/media/disconnected.svg": "/sailormillet/ant-mobile-demo/static/media/disconnected.9c7ea75e5abe3883ac5dfaf2cce1ae80.svg",
+    "static/media/logo.svg": "/sailormillet/ant-mobile-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/spin.svg": "/sailormillet/ant-mobile-demo/static/media/spin.a71ffb170f2356071b67492c9ea611fe.svg",
+    "static/media/slider-thumb.svg": "/sailormillet/ant-mobile-demo/static/media/slider-thumb.3d161c8488f6d47e9819.svg",
+    "index.html": "/sailormillet/ant-mobile-demo/index.html",
+    "static/media/empty-icon.svg": "/sailormillet/ant-mobile-demo/static/media/empty-icon.0e5fd2879f6036c6db04b701757e1f6c.svg",
+    "static/media/selector-check-mark.svg": "/sailormillet/ant-mobile-demo/static/media/selector-check-mark.114658178460349f836afa56ac129819.svg",
+    "main.3b2322cf.css.map": "/sailormillet/ant-mobile-demo/static/css/main.3b2322cf.css.map",
+    "main.f778aed9.js.map": "/sailormillet/ant-mobile-demo/static/js/main.f778aed9.js.map",
+    "787.4cdc0c10.chunk.js.map": "/sailormillet/ant-mobile-demo/static/js/787.4cdc0c10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b2322cf.css",
+    "static/js/main.f778aed9.js"
+  ]
+}
