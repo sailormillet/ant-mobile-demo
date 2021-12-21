@@ -1,33 +1,26 @@
 {
   "files": {
     "main.css": "/ant-mobile-demo/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/ant-mobile-demo/static/js/main.669e6a6f.chunk.js",
-    "main.js.map": "/ant-mobile-demo/static/js/main.669e6a6f.chunk.js.map",
-    "runtime-main.js": "/ant-mobile-demo/static/js/runtime-main.6c532c9b.js",
-    "runtime-main.js.map": "/ant-mobile-demo/static/js/runtime-main.6c532c9b.js.map",
+    "main.js": "/ant-mobile-demo/static/js/main.4b520b5b.chunk.js",
+    "main.js.map": "/ant-mobile-demo/static/js/main.4b520b5b.chunk.js.map",
+    "runtime-main.js": "/ant-mobile-demo/static/js/runtime-main.2d577c99.js",
+    "runtime-main.js.map": "/ant-mobile-demo/static/js/runtime-main.2d577c99.js.map",
     "static/css/2.e279ecef.chunk.css": "/ant-mobile-demo/static/css/2.e279ecef.chunk.css",
-    "static/js/2.ac58a231.chunk.js": "/ant-mobile-demo/static/js/2.ac58a231.chunk.js",
-    "static/js/2.ac58a231.chunk.js.map": "/ant-mobile-demo/static/js/2.ac58a231.chunk.js.map",
-    "static/js/3.57ffc497.chunk.js": "/ant-mobile-demo/static/js/3.57ffc497.chunk.js",
-    "static/js/3.57ffc497.chunk.js.map": "/ant-mobile-demo/static/js/3.57ffc497.chunk.js.map",
+    "static/js/2.3d5d433d.chunk.js": "/ant-mobile-demo/static/js/2.3d5d433d.chunk.js",
+    "static/js/2.3d5d433d.chunk.js.map": "/ant-mobile-demo/static/js/2.3d5d433d.chunk.js.map",
+    "static/js/3.d424215d.chunk.js": "/ant-mobile-demo/static/js/3.d424215d.chunk.js",
+    "static/js/3.d424215d.chunk.js.map": "/ant-mobile-demo/static/js/3.d424215d.chunk.js.map",
     "index.html": "/ant-mobile-demo/index.html",
     "static/css/2.e279ecef.chunk.css.map": "/ant-mobile-demo/static/css/2.e279ecef.chunk.css.map",
     "static/css/main.ab7136cd.chunk.css.map": "/ant-mobile-demo/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.ac58a231.chunk.js.LICENSE.txt": "/ant-mobile-demo/static/js/2.ac58a231.chunk.js.LICENSE.txt",
-    "static/media/busy.svg": "/ant-mobile-demo/static/media/busy.c4668539.svg",
-    "static/media/default.svg": "/ant-mobile-demo/static/media/default.1f281972.svg",
-    "static/media/disconnected.svg": "/ant-mobile-demo/static/media/disconnected.9c7ea75e.svg",
-    "static/media/empty-icon.svg": "/ant-mobile-demo/static/media/empty-icon.0e5fd287.svg",
-    "static/media/empty.svg": "/ant-mobile-demo/static/media/empty.f2b844b2.svg",
-    "static/media/selector-check-mark.svg": "/ant-mobile-demo/static/media/selector-check-mark.11465817.svg",
-    "static/media/slider.css": "/ant-mobile-demo/static/media/slider-thumb.3d161c84.svg",
-    "static/media/spin.svg": "/ant-mobile-demo/static/media/spin.a71ffb17.svg"
+    "static/js/2.3d5d433d.chunk.js.LICENSE.txt": "/ant-mobile-demo/static/js/2.3d5d433d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ant-mobile-demo/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c532c9b.js",
+    "static/js/runtime-main.2d577c99.js",
     "static/css/2.e279ecef.chunk.css",
-    "static/js/2.ac58a231.chunk.js",
+    "static/js/2.3d5d433d.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.669e6a6f.chunk.js"
+    "static/js/main.4b520b5b.chunk.js"
   ]
 }
