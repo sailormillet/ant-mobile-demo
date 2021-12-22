@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ant-mobile-demo/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/ant-mobile-demo/static/js/main.d39bb6fe.chunk.js",
-    "main.js.map": "/ant-mobile-demo/static/js/main.d39bb6fe.chunk.js.map",
+    "main.js": "/ant-mobile-demo/static/js/main.22a5f1fb.chunk.js",
+    "main.js.map": "/ant-mobile-demo/static/js/main.22a5f1fb.chunk.js.map",
     "runtime-main.js": "/ant-mobile-demo/static/js/runtime-main.74a634fa.js",
     "runtime-main.js.map": "/ant-mobile-demo/static/js/runtime-main.74a634fa.js.map",
     "static/css/2.cdb88648.chunk.css": "/ant-mobile-demo/static/css/2.cdb88648.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.cdb88648.chunk.css",
     "static/js/2.33e78626.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.d39bb6fe.chunk.js"
+    "static/js/main.22a5f1fb.chunk.js"
   ]
 }
